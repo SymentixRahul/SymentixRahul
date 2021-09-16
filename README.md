@@ -68,31 +68,3 @@
     </table>
   </div>
 
-
-<!-- <h3 align="left">Github Status:</h3>
-<p><span><img width="48%" src="https://github-readme-stats.vercel.app/api?username=symentixrahul&show_icons=true&locale=en" alt="symentixrahul" /></span>
-    <span>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=symentixrahul&" alt="symentixrahul" />
-    </span>
- </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symentixrahul&show_icons=true&locale=en&layout=compact" alt="symentixrahul" /></p> -->
-<br/>
-<br/>
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=symentixrahul&label=Profile%20views&color=0e75b6&style=flat" alt="symentixrahul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symentixrahul" alt="symentixrahul" /></a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symentixrahul&show_icons=true&locale=en&layout=compact" alt="symentixrahul" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=symentixrahul&show_icons=true&locale=en" alt="symentixrahul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=symentixrahul&" alt="symentixrahul" /></p>
-<!-- <p align="right" >
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-mishra-064544117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-mishra-064544117/" height="20" width="30" /></a>
-<a href="https://stackoverflow.com/users/8937579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8937579" height="20" width="30" /></a>
-</p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=symentixrahul&label=Profile%20views&color=0e75b6&style=flat" alt="symentixrahul" /> </p> -->
-<!-- <p top="20px"> <img align="left" src="https://github-profile-trophy.vercel.app/?username=symentixrahul" alt="symentixrahul" /></p> -->
